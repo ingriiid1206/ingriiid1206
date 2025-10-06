@@ -4,12 +4,12 @@
 
 ###
 
-<div align="center">
-</div>
+<h1 align="center">hey there 👾👩‍💻👋</h1>
 
 ###
 
-<h1 align="center">hey there 👾👩‍💻👋</h1>
+<div align="center">
+</div>
 
 ###
 
@@ -17,11 +17,11 @@
 
 ###
 
-<h5 align="left">I'm Ingrid <br><br>- 📚I'm currently studying a Computer Technician course at IFRN, Apodi campus.</h5>
+<h3 align="left">I'm Ingrid <br>📧iingridestudante@gamil.com<br>👋 Pronouns: She/Her<br><br>- 📚I'm currently studying a Computer Technician course at IFRN, Apodi campus.<br><br>🚀 Projects<br>🤖 OBR Robotics is developing an artistic robot programmed with Arduino and C++.<br><br>🗃️ I’m currently learning Javascript & SQL</h3>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🖥️ Languages</h3>
 
 ###
 
