@@ -1,10 +1,6 @@
 <div align="center">
-  <img height="150" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJxZXRwZnhsZjdoNjhjaHQ0bTdodHRhczdnM3RvemMybjJwa3Z6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KFBEaCDJqAjUvbPop5/giphy.gif"  />
 </div>
-
-###
-
-<h1 align="center">hey there 👾👩‍💻👋</h1>
 
 ###
 
@@ -17,11 +13,11 @@
 
 ###
 
-<h3 align="left">I'm Ingrid <br>📧iingridestudante@gamil.com<br>👋 Pronouns: She/Her<br><br>- 📚I'm currently studying a Computer Technician course at IFRN, Apodi campus.<br><br>🚀 Projects<br>🤖 OBR Robotics is developing an artistic robot programmed with Arduino and C++.<br><br>🗃️ I’m currently learning Javascript & SQL</h3>
+<h5 align="left">I'm Ingrid <br>📧iingridestudante@gamil.com<br>👋 Pronouns: She/Her<br><br>- 📚I'm currently studying a Computer Technician course at IFRN, Apodi campus.<br><br>🚀 Projects<br>🤖 OBR Robotics is developing an artistic robot programmed with Arduino and C++.<br><br>🗃️ I’m currently learning Javascript & SQL</h5>
 
 ###
 
-<h3 align="left">🖥️ Languages</h3>
+<h3 align="left">🖥️ Language</h3>
 
 ###
 
@@ -35,12 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=93&section=header&reversal=false&fontSize=61&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
