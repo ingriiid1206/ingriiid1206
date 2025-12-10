@@ -13,7 +13,7 @@
 
 ###
 
-<h5 align="left">I'm Ingrid <br>📧iingridestudante@gamil.com<br>👋 Pronouns: She/Her<br><br>- 📚I'm currently studying a Computer Technician course at IFRN, Apodi campus.<br><br>🚀 Projects<br>🤖 OBR Robotics is developing an artistic robot programmed with Arduino and C++.<br><br>🗃️ I’m currently learning Javascript & SQL</h5>
+<h5 align="left">I'm Ingrid <br>📧iingridestudante@gmail.com<br>👋 Pronouns: She/Her<br><br>- 📚I'm currently studying a Computer Technician course at IFRN, Apodi campus.<br><br>🚀 Projects<br>🤖 OBR Robotics is developing an artistic robot programmed with Arduino and C++.<br><br>🗃️ I’m currently learning Javascript & SQL</h5>
 
 ###
 
